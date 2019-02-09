@@ -8,6 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 description:
 - A short description of your site's purpose
